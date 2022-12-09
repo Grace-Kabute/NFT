@@ -9,8 +9,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 95vh;
     width: 100%;
-    min-height: 100vh;
     background-color: hsl(217, 54%, 11%);
     color: white;
     font-size: 18px;
